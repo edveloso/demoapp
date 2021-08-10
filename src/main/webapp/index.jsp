@@ -4,8 +4,6 @@
 
    <h2>Applicação de exemplo spring webmvc</h2>
 
-
-
   <form action="addUser" method="post" >
   
       <p>
